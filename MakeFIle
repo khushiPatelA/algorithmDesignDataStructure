@@ -1,0 +1,3 @@
+RPS: Player.h Player.cpp Computer.h Computer.cpp refree.cpp main.cpp
+	g++ Player.cpp Computer.cpp refree.cpp main.cpp - o main
+	./main 
