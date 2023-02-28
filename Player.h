@@ -1,5 +1,7 @@
 #ifndef Player_H
 #define Player_H
+#include<iostream>
+#include <string.h>
 using namespace std; 
 class Player{
     public:

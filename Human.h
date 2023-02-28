@@ -3,6 +3,8 @@
 
 #include "Player.h"
 #include "Computer.h"
+#include<string.h>
+#include<iostream>
 using namespace std;
 
 class Human: public Player{

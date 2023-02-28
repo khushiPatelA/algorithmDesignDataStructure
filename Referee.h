@@ -1,6 +1,8 @@
 #ifndef REFREE_H   
 #define REFREE_H
 #include "Player.h"
+#include<string.h>
+#include<iostream>
 using namespace std;
 
 class Referee{
