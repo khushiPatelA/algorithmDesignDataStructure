@@ -4,5 +4,5 @@ using namespace std;
 
 int main(){
     Truckloads T1;
-    cout<<T1.numTrucks(1024,5)<<endl;
+    cout<<T1.numTrucks(1,1)<<endl;
 }

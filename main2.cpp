@@ -6,7 +6,7 @@ using namespace std;
 int main(){
     Reverser R1;
     int number = 12345;
-    //cout<< R1.reverseDigit(number); 
+    cout<< R1.reverseDigit(number); 
 
     string a = "Khushi";
     cout << R1.reverseString(a)<<endl; 
